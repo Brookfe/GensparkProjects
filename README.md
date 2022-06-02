@@ -1,4 +1,6 @@
-# GensparkProjects
+# Genspark Projects
 
 
-My Genspark projects
+Genspark Projects 
+
+Author: Brook
